@@ -1,0 +1,83 @@
+body {
+  background-color: #eeeeee;
+  font-family: Calibri, Geneva, sans-serif;
+  font-size: 12px;
+}
+
+.dialog {
+  width: 190px;
+  margin: 120px auto 0;
+  padding: 20px;
+}
+
+#header{
+padding: 10px;
+color: #40454d;
+}
+
+#navbar{
+background-color: #40454d;
+min-height: 30px;
+padding: 10px;
+}
+
+#navbar ul li{
+display: inline-block;
+}
+
+#navbar ul li a{
+color: #bfbfbf;
+font-size: 16px;
+padding: 10px;
+}
+
+#navbar ul li a:hover{
+color: #ffffff;
+opacity: inherit;
+text-decoration: none;
+}
+
+#left-content{
+padding: 10px;
+}
+
+h1 a{
+color: #40454d;
+}
+
+#right-content{
+padding: 10px;
+font-size:10px;
+}
+
+.read-more{
+float: right;
+}
+
+.main-content{
+margin-bottom: 10px;
+}
+
+#footer{
+background-color: #3e424b;
+padding: 10px;
+color: #bfbfbf;
+text-align: center;
+}
+
+#footer a{
+color: #ffffff;
+}
+
+
+#loading {
+position:fixed;
+top: 0; 
+width:100%; 
+text-align:center; 
+color:#F00; 
+background-image:url(../asset/img/spotlight-bg.png);
+padding:15px 0px 15px 0px;
+font-size:10px;
+}
+
