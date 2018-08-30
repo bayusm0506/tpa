@@ -1,4 +1,5 @@
 <?php
+//Cek
 include "koneksi.php";
 koneksi_buka();
 
